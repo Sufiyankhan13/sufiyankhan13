@@ -1,97 +1,126 @@
-<h1 align="center">Hey, I'm Sufiyan Khan 👋</h1>
+<h1 align="center">👋 Hey, I'm Sufiyan Khan</h1>
 
 <p align="center">
-  💻 Full Stack Developer | 🤖 AI/ML Explorer | 🔧 DevOps Enthusiast | 📊 FinTech Innovator
+  📊 Data Analyst | 💻 Power BI & SQL Developer | 🤖 AI & MERN Stack Enthusiast  
 </p>
 
 <p align="center">
-  <a href="mailto:suffkhan13@gmail.com"><img src="https://img.shields.io/badge/email-contact-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/sufiyankhan13/"><img src="https://img.shields.io/badge/linkedin-profile-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/portfolio-view-blueviolet?style=for-the-badge&logo=react" /></a>
+  <a href="mailto:suffkhan13@gmail.com"><img src="https://img.shields.io/badge/Email-suffkhan13%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/sufiyankhan13/"><img src="https://img.shields.io/badge/LinkedIn-Sufiyan%20Khan-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-8A2BE2?style=for-the-badge&logo=react" /></a>
 </p>
 
 ---
 
-### 🚀 About Me
+### 💫 About Me
 
-A passionate developer who enjoys building scalable web apps, experimenting with AI, and solving real-world problems. I love blending creative UI, backend logic, and intelligent systems to build projects that **simplify, automate, and elevate** experiences.
+I’m a **results-driven Data Analyst and Business Intelligence professional** with a dual postgraduate specialization in **Artificial Intelligence & Data Analysis** and **Technology Management** from *Saskatchewan Polytechnic (Canada)*.
 
-- 🔭 Currently working on: AI-powered tools, full-stack platforms & fintech apps  
-- 🧠 Learning: DevOps workflows, Docker, and prompt engineering  
-- 💡 Always exploring: Real-time systems, LLMs, and cloud automation
+Currently, I’m working as an **Operations Data Analyst at The Aaron’s Company**, where I design **Power BI dashboards**, automate **SQL-based reports**, and analyze **business performance metrics** to support strategic decision-making.
 
----
-
-### 🧠 Tech Stack
-
-| Category          | Tools & Technologies |
-|-------------------|----------------------|
-| Languages         | JavaScript, Python, Java, HTML/CSS, SQL |
-| Frameworks        | React, Node.js, Express, Tailwind, FastAPI |
-| Databases         | MongoDB, MySQL, Firebase |
-| DevOps & Tools    | Docker, GitHub Actions, AWS EC2, Vercel |
-| AI/ML             | OpenAI, LangChain, TensorFlow, Scikit-learn |
-| Other             | Socket.IO, JWT, Power BI, Chart.js |
+With a solid foundation in **Python, SQL, and Machine Learning**, and hands-on experience in **web development**, I bridge the gap between **data, technology, and business impact** — creating solutions that automate insights and empower teams.
 
 ---
 
-### 💼 Featured Projects
+### ⚙️ Tech Stack
 
-#### 💰 BullPort – Financial Stock Broker Platform  
-A high-performance stock brokerage simulation inspired by leading fintech platforms.  
-- 📈 Real-time market data components  
-- 📊 Portfolio tracking with price alerts  
-- 🔐 Secure login, dashboard views, and investor insights  
-- 🎨 Built using React, Node.js, and PostgreSQL
-
-#### 🎨 AI Image Generator (HTML, CSS & JS)  
-An interactive tool for generating AI-based images from user prompts using external AI APIs.
-
-#### 🧠 Pneumonia Detection Using CNN  
-Built a deep learning pipeline with 94% accuracy on X-ray images.  
-- CNN architecture with VGG, ResNet, DenseNet  
-- Data preprocessing and evaluation  
-- Medical diagnostics via AI
-
-#### 🗣 AI Integrated Virtual Assistant (Python)  
-Created a Jarvis-like assistant using Python libraries.  
-- Web search, multitasking, and automation features  
-- Wikipedia, YouTube, and Google integration  
-- Speech recognition and natural interaction
-
-#### 💬 Real-Time Chat App (Node.js + Socket.IO)  
-- Built with secure JWT-based auth  
-- Real-time messaging, room joins, file sharing  
-- Scalable with Node.js and Socket.IO
-
-#### 🎓 Student Management System (Java + MySQL)  
-Manage student data, academic records, and course assignments.  
-- GUI-based desktop app  
-- Admin login, role-based data access  
-- MySQL backend for persistence
-
-#### 📊 Attendance Tracker (Java)  
-Java desktop app to log, manage, and export daily attendance reports.  
-- Easy UI  
-- Excel export  
-- Date-wise filtering
+| Category | Tools & Technologies |
+|-----------|----------------------|
+| **Data Analytics** | Power BI, Excel, Python (Pandas, Matplotlib, Seaborn), SQL |
+| **Machine Learning** | Scikit-learn, TensorFlow, LSTM, CNN, Regression Analysis |
+| **Programming** | Python, JavaScript, SQL, Java |
+| **Web Development** | React.js, Node.js, Express.js, Tailwind CSS |
+| **Databases** | MySQL, MongoDB, Firebase |
+| **Cloud & DevOps** | AWS EC2, Docker, GitHub Actions, Vercel |
+| **BI & Visualization** | Power BI Service, Chart.js, IBM Cognos |
+| **Other** | Agile SDLC, Reporting Automation, API Integration |
 
 ---
 
-### 🧪 Currently Exploring
+### 💼 Experience
 
-- 🧱 LangChain agents + LLM-driven assistants  
-- 🐳 Containerized DevOps with Docker  
-- 💹 Building fintech tools with React and D3.js  
-- 🧪 ML pipelines for health-tech and ed-tech sectors
+#### 🏢 **The Aaron’s Company, Inc.**  
+**Operations Data Analyst**  
+📍 Regina, SK | *May 2025 – Present*  
+- Built **interactive Power BI dashboards** for sales, product trends, and revenue growth.  
+- Automated Excel + SQL workflows → reduced manual reporting by **40%**.  
+- Consolidated operational data into weekly **leadership KPI reports**.  
+- Supported forecasting and data-driven store performance analysis.
+
+#### 💻 **Kognitive Sales Solutions**  
+**Technical Support Analyst**  
+📍 Regina, SK | *Oct 2023 – Feb 2025*  
+- Managed **CRM data** and system troubleshooting → improved reliability by **25%**.  
+- Documented recurring issues and streamlined internal workflows.  
+- Partnered with IT for secure data access and user management.
+
+#### 🧠 **Manik IT Consultancy**  
+**Junior Software & Data Developer**  
+📍 Nadiad, India | *Nov 2022 – Aug 2023*  
+- Designed optimized **SQL queries** and backend APIs → improved data speed by **35%**.  
+- Built **React.js visualization components** for healthcare dashboards.  
+- Collaborated on data cleaning, transformation, and validation for analytics.  
+- Participated in Agile sprints and improved documentation standards.
+
+#### 💉 **LifeLine Labs™**  
+**Web Application Developer**  
+📍 Remote | *Aug 2021 – Feb 2022*  
+- Created a healthcare web platform using **React + Node.js** for diagnostic services.  
+- Integrated **Firebase** for real-time updates and improved engagement.  
+- Applied SEO best practices, boosting site visibility and traffic.
 
 ---
 
-### 📫 Connect With Me!
+### 📊 Featured Projects
 
-- 📬 Email: suffkhan13@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/sufiyankhan13](https://www.linkedin.com/in/sufiyankhan13/)  
-- 🌐 Portfolio: *Coming Soon*
+#### 💰 **BullPort – Financial Stock Analytics**
+> A full-stack FinTech simulation for portfolio tracking and real-time data visualization.  
+> Built with React, Node.js, and PostgreSQL; includes authentication and portfolio metrics.
+
+#### 🧠 **Pneumonia Detection using CNN**
+> Deep learning model achieving **94% accuracy** using CNN architectures (VGG, DenseNet).  
+> Designed for medical diagnostics and imaging automation.
+
+#### 📈 **COVID-19 Forecasting (LSTM)**
+> Implemented LSTM-based time series forecasting for infection trends using Python & Pandas.  
+
+#### 💬 **AI Voice Assistant (Python)**
+> Voice-controlled virtual assistant with NLP, Wikipedia, and YouTube integration.
+
+#### 💻 **Real-Time Chat App**
+> Node.js + Socket.IO app with secure JWT authentication and instant messaging.
 
 ---
 
+### 🎯 Core Strengths
+
+✅ Data Visualization & Reporting Automation  
+✅ Power BI Dashboard Design  
+✅ Predictive Analytics (Regression, LSTM, CNN)  
+✅ SQL Query Optimization & Data Transformation  
+✅ Agile & SDLC Project Coordination  
+✅ Full-Stack & API-Based Analytics Platforms  
+
+---
+
+### 🧭 Currently Exploring
+
+- 🧱 Building RAG Agents with LangChain + OpenAI  
+- 📊 BI Workflow Automation with Power BI Service APIs  
+- 🐳 Containerized Deployments using Docker  
+- 💹 FinTech Dashboards with React & D3.js  
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:suffkhan13@gmail.com">📧 suffkhan13@gmail.com</a> • 
+  <a href="https://www.linkedin.com/in/sufiyankhan13/">💼 LinkedIn</a> • 
+  🌐 Portfolio: <em>Coming Soon</em>
+</p>
+
+---
+
+⭐ *“Turning raw data into intelligent decisions and scalable systems.”*  
+— **Sufiyan Khan**
