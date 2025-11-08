@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:suffkhan13@gmail.com"><img src="https://img.shields.io/badge/Email-suffkhan13%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:sufiyankhan.codes@gmail.com"><img src="https://img.shields.io/badge/Email-sufiyankhan.codes%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/sufiyankhan13/"><img src="https://img.shields.io/badge/LinkedIn-Sufiyan%20Khan-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-8A2BE2?style=for-the-badge&logo=react" /></a>
 </p>
@@ -82,7 +82,7 @@ With a solid foundation in **Python, SQL, and Machine Learning**, and hands-on e
 > Designed for medical diagnostics and imaging automation.
 
 #### 📈 **COVID-19 Forecasting (LSTM)**
-> Implemented LSTM-based time series forecasting for infection trends using Python & Pandas.  
+> Implemented LSTM-based time-series forecasting for infection trends using Python & Pandas.
 
 #### 💬 **AI Voice Assistant (Python)**
 > Voice-controlled virtual assistant with NLP, Wikipedia, and YouTube integration.
@@ -115,7 +115,7 @@ With a solid foundation in **Python, SQL, and Machine Learning**, and hands-on e
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:suffkhan13@gmail.com">📧 suffkhan13@gmail.com</a> • 
+  <a href="mailto:sufiyankhan.codes@gmail.com">📧 sufiyankhan.codes@gmail.com</a> • 
   <a href="https://www.linkedin.com/in/sufiyankhan13/">💼 LinkedIn</a> • 
   🌐 Portfolio: <em>Coming Soon</em>
 </p>
